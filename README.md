@@ -15,6 +15,6 @@ Heaps where the parent key is greater than or equal to (≥) the child keys are 
 
 #### Big O of Binary Heaps:
 
-- Insetion: __O(log N)__
+- Insertion: __O(log N)__
 - Removal: __O(log N)__
 - Search: __O(N)__
